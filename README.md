@@ -50,5 +50,6 @@ Thanks to **@Future Interns** for providing this amazing internship opportunity 
 
 ## 📸 Dashboard Preview
 
-(dashboard.png)
+<img width="1310" height="661" alt="dashboard" src="https://github.com/user-attachments/assets/68a53dc8-67bc-465d-b1c7-22575830c561" />
+
 
